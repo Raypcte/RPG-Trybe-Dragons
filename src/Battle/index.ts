@@ -1,3 +1,3 @@
-// import Battle from './Battle';
+import Race from './Race';
 
-// export default Battle;
+export default Race;
