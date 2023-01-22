@@ -6,5 +6,3 @@ interface Energy {
 }
 
 export default Energy;
-
-// export {EnergyType};
