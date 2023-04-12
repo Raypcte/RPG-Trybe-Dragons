@@ -1,10 +1,9 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# README 
+
+- Neste projeto foi desenvolvido uma estrutura de jogo no estilo RPG.
+- Para seu desenvolvimento foram utilizandos os princípios de Programação Orientada a Objeto (POO) e os princípios de arquitetura SOLID.
+
+# Os objetivos principais do projetos eram:
+
+- Aplicar e praticar os conceitos de SOLID
+- Aplicar e praticar os conceitos de POO
